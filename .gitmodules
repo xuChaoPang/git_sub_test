@@ -1,0 +1,3 @@
+[submodule "w-invoke"]
+	path = w-invoke
+	url = https://github.com/xuChaoPang/w-invoke.git
